@@ -1,0 +1,23 @@
+	Welcome to Meta Cables
+ Bill Number: 1
+ Customer Name: Makkah Electric Store
+ Phone Number: 22
+=======================================
+S.No  	Item Name		   Qty 	Price
+=======================================
+1	3/.029		     1	 2325
+=======================================
+		     Subtotal Rs. 2325
+		     Sales Tax Rs. 232.5
+---------------------------------------
+			Total Rs.  2557.5
+---------------------------------------
+
+
+
+
+
+
+
+
+-----------Thanks for shopping------------

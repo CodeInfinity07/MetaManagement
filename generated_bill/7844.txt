@@ -1,0 +1,23 @@
+	Welcome to My Shop
+ Bill Number: 7844
+ Customer Name: Ibrahim Electric Store
+ Phone Number: 33
+=======================================
+S.No  	Item Name		   Qty 	Price
+=======================================
+1	3/.029		     7	 16275
+=======================================
+		     Subtotal Rs. 16275
+		     Sales Tax Rs. 1627.5
+---------------------------------------
+			Total Rs.  17902.5
+---------------------------------------
+
+
+
+
+
+
+
+
+-----------Thanks for shopping------------
